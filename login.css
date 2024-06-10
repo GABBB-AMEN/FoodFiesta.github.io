@@ -12,7 +12,7 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background:linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50),rgba(0,0,0,0.50)), url("C:/Users/Gab/Desktop/HTML/E-COMMERCE/foodblog1.jpg");
+    background:linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50),rgba(0,0,0,0.50)), url("foodblog1.jpg");
     background-size: cover;
     background-position: center;
   }
